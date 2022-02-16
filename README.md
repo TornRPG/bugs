@@ -3,7 +3,6 @@
 Vorlage:
 
 ```
-
 # Bug
 
 erkläre den bug
@@ -11,5 +10,4 @@ erkläre den bug
 # how to Reproduce
 
 wie der bug entsteht
-
 ```
