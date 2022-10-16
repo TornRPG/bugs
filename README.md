@@ -3,11 +3,11 @@
 Vorlage:
 
 ```
-# Bug
+#Bug
 
 erkläre den bug
 
-# how to Reproduce
+#how to Reproduce
 
 wie der bug entsteht
 ```
